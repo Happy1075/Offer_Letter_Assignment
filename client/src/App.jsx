@@ -169,9 +169,9 @@ function App() {
           Download Offer Letter
         </button>
       </form>
-      <p style={{ fontSize: 13, color: "#888", marginTop: 16, textAlign: "center" }}>
+      {/* <p style={{ fontSize: 13, color: "#888", marginTop: 16, textAlign: "center" }}>
         Powered by React & PDF Generator
-      </p>
+      </p> */}
     </div>
   );
 }
